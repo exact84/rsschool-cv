@@ -1,9 +1,13 @@
 # Alexey Trukhlyayev
 
+<img src="./MyFoto.jpg" width="200" />
+<!-- ![Моё фото](./MyFoto.jpg) -->
+
 Marital status: married, 2 son.  
 Сity: Karaganda.  
 Contacts: +77057068586, +7(7212)567018, exact84@gmail.com  
-[LinkedIn profile](https://www.linkedin.com/in/alexey-trukhlyayev-65b8072a/)
+[LinkedIn profile](https://www.linkedin.com/in/alexey-trukhlyayev-65b8072a/)  
+Discord: alexeyexact
 
 ### Position: Node.js developer
 
@@ -59,3 +63,24 @@ Faculty of Information Technologies, Computer Aided Design department.
 
 - Certificate of Completion in Node.js Development, Tech Orda Program by EPAM Kazakhstan IT School. July 17, 2024
 - ["Python Generaion": course for beginners](https://stepik.org/cert/2040159?lang=en) April 22, 2023
+
+### LANGUAGES
+
+- Russian - native
+- English - B2
+- German - A1
+
+### CODE
+
+```
+function bmi(weight, height) {
+  var bm = weight / (height ** 2);
+  return bm <= 18.5
+    ? "Underweight"
+    : bm <= 25
+    ? "Normal"
+    : bm <= 30
+    ? "Overweight"
+    : "Obese";
+}
+```
