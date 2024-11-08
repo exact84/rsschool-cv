@@ -70,6 +70,11 @@ Faculty of Information Technologies, Computer Aided Design department.
 - English - B2
 - German - A1
 
+### PROJECTS
+
+[CapstoneProject](https://gitlab.com/exact84/capstone-api)  
+[ToDo Express](https://gitlab.com/exact84/mytodo-express)
+
 ### CODE
 
 ```
