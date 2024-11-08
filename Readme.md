@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/rsschool-cv/
+https://exact84.github.io/rsschool-cv/
