@@ -3,10 +3,10 @@
 <img src="./MyFoto.jpg" width="200" />
 <!-- ![Моё фото](./MyFoto.jpg) -->
 
-Marital status: married, 2 son.  
-Сity: Karaganda.  
-Contacts: +77057068586, +7(7212)567018, exact84@gmail.com  
-[LinkedIn profile](https://www.linkedin.com/in/alexey-trukhlyayev-65b8072a/)  
+Marital status: married, 2 son.<br>
+Сity: Karaganda.<br>
+Contacts: +77057068586, +7(7212)567018, exact84@gmail.com<br>
+[LinkedIn profile](https://www.linkedin.com/in/alexey-trukhlyayev-65b8072a/)<br>
 Discord: alexeyexact
 
 ### Position: Node.js developer
