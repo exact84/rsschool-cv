@@ -1,1 +1,1 @@
-https://exact84.github.io/rsschool-cv/
+https://exact84.github.io/rsschool-cv/cv
