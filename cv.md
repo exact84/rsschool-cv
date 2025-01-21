@@ -47,7 +47,7 @@ _Computer technology and telecommunication center at KSTU_
 
 ### EDUCATION
 
-Karaganda state technical university (KSTU) 2006
+Karaganda state technical university (KSTU) 2007
 Kazakhstan, Karaganda.
 Faculty of Information Technologies, Computer Aided Design department.
 
@@ -66,7 +66,7 @@ Faculty of Information Technologies, Computer Aided Design department.
 ### LANGUAGES
 
 - Russian - native
-- English - B2
+- English - B2 (IELTS sertificate 6.0, 20.01.2018)
 - German - A1
 
 ### PROJECTS
