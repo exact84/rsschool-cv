@@ -3,13 +3,13 @@
 <img src="./MyFoto.jpg" width="200" />
 <!-- ![Моё фото](./MyFoto.jpg) -->
 
-Marital status: married, 2 son.<br>
+Marital status: married, 2 sons.<br>
 Сity: Karaganda.<br>
-Contacts: +77057068586, +7(7212)567018, exact84@gmail.com<br>
+Contacts: +77057068586, exact84@gmail.com<br>
 [LinkedIn profile](https://www.linkedin.com/in/alexey-trukhlyayev-65b8072a/)<br>
 Discord: alexeyexact
 
-### Position: Node.js developer
+### Position: JavaScript/Node.js developer
 
 ### SUMMARY OF QUALIFICATIONS
 
@@ -25,7 +25,6 @@ _Innovation Development ltd._
 - Analyzed internal operations and identify areas for process enhancement
 - Build and maintain relationships with customers, clients, partners, and stakeholders.
 - Work with documentation.
-  (responsebilities и achivements)
 
 **Programmer-analyst 2008 - 2010**  
 _«Astana» processing center corporation_
@@ -72,20 +71,8 @@ Faculty of Information Technologies, Computer Aided Design department.
 
 ### PROJECTS
 
-[CapstoneProject](https://gitlab.com/exact84/capstone-api)  
+[Capstone Project Node.js](https://gitlab.com/exact84/capstone-api)  
 [ToDo Express](https://gitlab.com/exact84/mytodo-express)
-
-### CODE
-
-```
-function bmi(weight, height) {
-  var bm = weight / (height ** 2);
-  return bm <= 18.5
-    ? "Underweight"
-    : bm <= 25
-    ? "Normal"
-    : bm <= 30
-    ? "Overweight"
-    : "Obese";
-}
-```
+[Christmas shop](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/christmas-shop/)
+[Simon says game](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/simon-says/)
+[HTML-builder](https://github.com/exact84/HTML-builder)
