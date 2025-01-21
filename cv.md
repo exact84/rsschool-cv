@@ -40,14 +40,14 @@ _IT Research Center corporation_
 - Developed information system «Control of manufacture and turnover excisable goods and separated kind of oil products ».
 - Developed «Medical service quality management system».
 
-**Technician-programmer 2002-2007**  
+**Technician-programmer 2002-2006**  
 _Computer technology and telecommunication center at KSTU_
 
 - Developed, implemented and maintained systems: «Inventory», AIS «KSTU», «Computer testing system».
 
 ### EDUCATION
 
-Karaganda state technical university (KSTU) 2006
+Karaganda state technical university (KSTU) 2007
 Kazakhstan, Karaganda.
 Faculty of Information Technologies, Computer Aided Design department.
 
