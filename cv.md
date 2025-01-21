@@ -40,7 +40,7 @@ _IT Research Center corporation_
 - Developed information system «Control of manufacture and turnover excisable goods and separated kind of oil products ».
 - Developed «Medical service quality management system».
 
-**Technician-programmer 2002-2006**  
+**Technician-programmer 2002-2007**  
 _Computer technology and telecommunication center at KSTU_
 
 - Developed, implemented and maintained systems: «Inventory», AIS «KSTU», «Computer testing system».
@@ -66,7 +66,7 @@ Faculty of Information Technologies, Computer Aided Design department.
 ### LANGUAGES
 
 - Russian - native
-- English - B2
+- English - B2 (IELTS sertificate 6.0, 20.01.2018)
 - German - A1
 
 ### PROJECTS
