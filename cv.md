@@ -72,7 +72,7 @@ Faculty of Information Technologies, Computer Aided Design department.
 ### PROJECTS
 
 [Capstone Project Node.js](https://gitlab.com/exact84/capstone-api)  
-[ToDo Express](https://gitlab.com/exact84/mytodo-express)
-[Christmas shop](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/christmas-shop/)
-[Simon says game](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/simon-says/)
-[HTML-builder](https://github.com/exact84/HTML-builder)
+[ToDo Express](https://gitlab.com/exact84/mytodo-express)  
+[Christmas shop](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/christmas-shop/)  
+[Simon says game](https://rolling-scopes-school.github.io/exact84-JSFE2024Q4/simon-says/)  
+[HTML-builder](https://github.com/exact84/HTML-builder)  
